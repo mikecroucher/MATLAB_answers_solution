@@ -1,4 +1,6 @@
-# MATLAB_answers_solution
+# MATLAB answers solution
+
+While attempting to help with https://www.mathworks.com/matlabcentral/answers/1929070-help-with-ode-tolerance-options?s_tid=srchtitle, the original poster saw different behaviour to me so I created this to ensure that we are both running the exact same thing.
 
 To run this, do 
 ```
